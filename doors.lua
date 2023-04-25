@@ -24,7 +24,3 @@ end)
 MainSection:NewButton("Morph", "Troll people", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ChronoAccelerator/Public-Scripts/main/Morphing/MorphScript.lua"))()
 end)
-
-MainSection:NewButton("Doors", "unnamed script", function()
-    loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/dars"))()
-end)
