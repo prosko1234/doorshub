@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Doors hub", "DarkTheme")
+local Window = Library.CreateLib("Doors hub(by prosko1234)", "DarkTheme")
 
 -- MAIN
 local Main = Window:NewTab("Main")
