@@ -22,5 +22,5 @@ MainSection:NewButton("Ominous Vibe", "ButtonInfo", function()
 end)
 
 MainSection:NewButton("Poopdoors", "Old Msdoors", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/mstudio45/poopdoors_edited/main/poopdoors_edited.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ChronoAccelerator/Public-Scripts/main/Morphing/MorphScript.lua"))()
 end)
