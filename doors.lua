@@ -21,6 +21,6 @@ MainSection:NewButton("Ominous Vibe", "ButtonInfo", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/OminousVibes-Exploit/Scripts/main/doors/loadstring.lua"))()
 end)
 
-MainSection:NewButton("Msdoors(old)", "old version Poopdoors", function()
- loadstring(game:HttpGet("https://raw.githubusercontent.com/mstudio45/poopdoors_edited/main/poopdoors_edited.lua"))()
+MainSection:NewButton("Poopdoors", "Old Msdoors", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/mstudio45/poopdoors_edited/main/poopdoors_edited.lua"))()
 end)
