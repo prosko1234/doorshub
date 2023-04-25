@@ -21,6 +21,6 @@ MainSection:NewButton("Ominous Vibe", "ButtonInfo", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/OminousVibes-Exploit/Scripts/main/doors/loadstring.lua"))()
 end)
 
-MainSection:NewButton("Poopdoors", "Old Msdoors", function()
+MainSection:NewButton("Morph script", "Become morph and troll people", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ChronoAccelerator/Public-Scripts/main/Morphing/MorphScript.lua"))()
 end)
